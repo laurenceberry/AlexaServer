@@ -1,0 +1,3 @@
+[submodule "apps/opportunities"]
+	path = apps/opportunities
+	url = https://github.com/laurenceberry/opportunities.git
